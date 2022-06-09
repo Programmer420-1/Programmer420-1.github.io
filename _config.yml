@@ -26,10 +26,10 @@ title: Wei Xin                          # the main title
 tagline: Java · Python · Machine Learning Enthusiast   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  A corner for me to post some updates about my life.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: wxinlim.github.io
+url: programmer420-1.github.io
 
 github:
   username: Programmer420-1             # change to your github username
