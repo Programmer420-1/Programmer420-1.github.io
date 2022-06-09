@@ -19,7 +19,7 @@ help() {
 }
 
 check_status() {
-  if [[ ! -n $(git status . -s) ]]; then
+  if [[ -n $(git status . -s) ]]; then
     echo "Error: Commit unstaged files first, and then run this tool againt."
     exit -1
   fi
