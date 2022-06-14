@@ -1,6 +1,6 @@
 ---
 title: Aftermath - Lessons learnt
-date: 2022-06-15 21:19:21 +0800
+date: 2022-06-14 08:00:00 +0800
 categories: [Social Engagement]
 tags: [social-engagement]
 ---
